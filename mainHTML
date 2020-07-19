@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<div id="survey">
+<div>
+  <h1 id="title">
+    Survey Form
+  </h1>
+  <p id="description">
+description
+  </p>
+</div>
+<div id="form-div">
+  <form id="survey-form">
+   <fieldset>
+     <legend>
+     Type in your personal informations!
+     </legend>
+     <input type="text" name="name" id="user-name" placeholder="Your silly name" required>
+     <br>
+     <input type="text" name="email-adress" id="email" placeholder="Your email adress" required>
+     <br>
+     <input type="text" name="number" placeholder="number">
+       </fieldset>
+     
+</form>
+</div>
+</div>
+</html>
